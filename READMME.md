@@ -11,5 +11,9 @@
 
 ##### Added feature 3 to check how `>git pull` and `>git pull origin main` are different'
 
+<<<<<<< HEAD
 
+=======
+##### Addiging new feature to checkout how `>git pull` and `>git` pull origin main` are different.
+>>>>>>> 2756ba70feb4460d048bbd60e9a0f9de30480fd4
 
