@@ -8,3 +8,8 @@
 ### Working with branches now 
 
 #### Added new feauture to practice PR and merging
+
+##### Added feature 3 to check how `>git pull` and `>git pull origin main` are different'
+
+
+
