@@ -6,3 +6,5 @@
 ### Git is just amzming. You do not have to worry about missing anything
 
 ### Working with branches now 
+
+#### Added new feauture to practice PR and merging
